@@ -1,0 +1,8 @@
+name = "hoseingo"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "settings", id = "04850865a7c04434a2271e430270b7d2" }
+]
